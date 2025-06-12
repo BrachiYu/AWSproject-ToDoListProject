@@ -62,7 +62,7 @@ function App() {
           style={{ width: '70%', padding: '8px' }}
         />
         <button onClick={addTask} style={{ padding: '8px 16px', marginLeft: '10px' }}>
-          הוסף
+          addTask
         </button>
       </div>
 
