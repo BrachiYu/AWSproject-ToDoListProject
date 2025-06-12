@@ -104,7 +104,7 @@ function App() {
                 cursor: 'pointer',
               }}
             >
-              מחק
+              deleteTask
             </button>
           </li>
         ))}
